@@ -1,0 +1,54 @@
+.information {
+
+  p {
+    font-size: 16px;
+    line-height: 1.45em;
+    padding-left: 33px;
+    padding-right: 33px;
+    color: #726f6f;
+  }
+}
+
+.excerpt {
+
+  p {
+    font-size: 11px;
+    line-height: 1.45em;
+    padding-left: 33px;
+    color: #726f6f;
+  }
+}
+
+
+.preferences {
+  
+  p {
+    color: #726f6f;
+    font-size: 13px;
+    line-height: 1.45em;
+  }
+}
+
+
+.footer {
+  background-color: #E6E6E6;
+
+  .footerRow {
+    margin-top: 20px;
+  }
+
+  .legal {
+    
+    p {
+      font-size: 13px;
+      color: #726f6f;
+      line-height: 1.45em;
+      
+      a {
+        font-weight: 600;
+        padding-right: 10px;
+      }
+    }
+  }
+}
+
